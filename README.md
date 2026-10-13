@@ -18,7 +18,7 @@
 | 🏛️ **Legacy AS400 retired on time** | $2.5M, 18-month engagement moving a nonprofit to cloud CRM |
 
 ## Start here
-- 📘 **[TPM Playbook](https://github.com/brandonnissl/tpm-playbook)**: open templates for migration go/no-go, cutover, PMO governance, AI rollout and program reviews
+- 📘 **[TPM Playbook](https://github.com/brandonnissl/tpm-playbook)**: 16 AI prompts that generate Sheets/Excel workbooks for platform migrations, PMO governance and AI adoption
 - 🎛️ **[Tone Density Compressor](https://github.com/brandonnissl/Tone-Density-Compressor)**: multiband compressor plugin (C++ / JUCE). I still build.
 
 ## Toolbox
