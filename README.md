@@ -2,7 +2,7 @@
 
 **Senior Staff Technical Program Manager** · I scale GenAI across engineering organizations
 
-> 🟢 **Open to new roles:** Senior Staff / Principal TPM, Head of Program Management, AI transformation leadership. Remote or Atlanta. [LinkedIn](https://www.linkedin.com/in/brandonnissl)
+[LinkedIn](https://www.linkedin.com/in/brandonnissl)
 
 I led AI-assisted development for **400+ developers** and sprint velocity rose **2.2x**. I did it the way I have run 15 years of platform migrations: pilot teams, gates, champions, training, policy, and numbers I would defend in front of a CTO.
 
